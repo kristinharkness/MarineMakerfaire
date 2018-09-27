@@ -10,4 +10,5 @@ Bring:
 - Sensors
 - Wall warts
 - Handouts
-
+- Projects to demo? Kristin's Glove?
+- Aligator clips
