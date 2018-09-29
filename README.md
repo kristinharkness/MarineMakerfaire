@@ -1,5 +1,11 @@
 # MarineMakerfaire
-Code for the Marine Makerfaire
+Resources for the Marine Makerfaire
+
+Arduino Website: https://www.arduino.cc
+
+Arduino in a nutshell: http://www.teachmeteamwork.com/files/arduino-in-a-nutshell-1.8.pdf
+
+
 
 Bring:
 - Multimeter(s)
@@ -10,5 +16,7 @@ Bring:
 - Sensors
 - Wall warts
 - Handouts
-- Projects to demo? Kristin's Glove?
+- Projects to demo? Kristin's Glove? Distance Sensor? Printer?
 - Aligator clips
+- VGA Adapter
+- fritzing doc
