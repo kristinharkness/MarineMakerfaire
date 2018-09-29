@@ -15,8 +15,7 @@ Bring:
 - Kits
 - Sensors
 - Wall warts
-- Handouts
 - Projects to demo? Kristin's Glove? Distance Sensor? Printer?
 - Aligator clips
 - VGA Adapter
-- fritzing doc
+- LED Strand
