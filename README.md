@@ -8,6 +8,6 @@ Arduino in a nutshell: http://www.teachmeteamwork.com/files/arduino-in-a-nutshel
 Spark Electronics
 electronics@sparkmakerspace.org
 
-Drew Gates
-Kristin Harkness
-John Scimone
+* Drew Gates
+* Kristin Harkness
+* John Scimone
