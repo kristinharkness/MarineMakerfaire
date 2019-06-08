@@ -1,8 +1,8 @@
 # MarineMakerfaire
 Resources for the Marine Makerfaire
 
+This page: https://github.com/kristinharkness/MarineMakerfaire
 Arduino Website: https://www.arduino.cc
-
 Arduino in a nutshell: http://www.teachmeteamwork.com/files/arduino-in-a-nutshell-1.8.pdf
 
 Spark Electronics Team:
